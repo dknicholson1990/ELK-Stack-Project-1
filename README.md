@@ -54,8 +54,8 @@ A summary of the access policies in place can be found in the table below.
 
 | Name     | Publicly Accessible | Allowed IP Addresses |
 |----------|---------------------|----------------------|
-| Jump Box | Yes                 | 75.190.236.107       |
-| Elk      | Yes                 | 75.190.236.107       |
+| Jump Box | Yes                 | HOSTIP               |
+| Elk      | Yes                 | HOstIP               |
 |          |                     |                      |
 
 ### Elk Configuration
